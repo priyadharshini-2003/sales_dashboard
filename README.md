@@ -1,5 +1,5 @@
 # sales_dashboard
-📊 Sales Performance Dashboard — README Summary
+📊 Sales Performance Dashboard 
 Overview
 This interactive Power BI dashboard visualizes sales performance data from the Superstore dataset. It provides a high-level view of sales trends across time, regions, and product categories. The goal is to help business users quickly identify performance patterns and uncover insights to guide strategic decisions.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
